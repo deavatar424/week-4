@@ -1,0 +1,15 @@
+simplicity between the Node.js HTTP server and the 3. Express.js server.
+
+Express.js Server
+Built-in routing (app.get()
+Automatically handled
+Built-in middleware support
+
+
+
+
+
+Node.js HTTP Server
+Manually check 
+Manually set headers and status
+Low-level, more boilerplate code
